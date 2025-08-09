@@ -1,4 +1,4 @@
-﻿SalesOrderNumber,OrderDate,ProductKey,ResellerKey,EmployeeKey,SalesTerritoryKey,Quantity,Unit Price,Sales,Cost
+﻿SalesOrderNumber,OrderDate,ProductKey,ResellerKey,EmployeeKey,SalesTerritoryKey,Quantity,UnitPrice,Sales,Cost
 SO43897,25-08-2017,235,312,282,4,2,$28.84,$57.68,$63.45
 SO43897,25-08-2017,351,312,282,4,2,"$2,024.99","$4,049.98","$3,796.19"
 SO43897,25-08-2017,348,312,282,4,2,"$2,024.99","$4,049.98","$3,796.19"
