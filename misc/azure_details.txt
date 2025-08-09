@@ -1,0 +1,10 @@
+storage url : abfss://metastore@azureprojectdatalakegen2.dfs.core.windows.net/
+
+
+Access Connector ID :
+/subscriptions/3c7a1836-2bf6-4aa7-b6f5-c87d22c496dc/resourceGroups/RG-DEProject/providers/Microsoft.Databricks/accessConnectors/retail-project-access-connector
+
+
+Synapse: syn-netflix-gold-ondemand.sql.azuresynapse.net
+login: synadmin
+password: Pranoy@123

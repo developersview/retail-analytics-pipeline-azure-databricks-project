@@ -1,0 +1,62 @@
+[
+	{
+		"folder_name": "Product",
+		"file_name": "Product.csv"
+	},
+	{
+		"folder_name": "Region",
+		"file_name": "Region.csv"
+	},
+	{
+		"folder_name": "Reseller",
+		"file_name": "Reseller.csv"
+	},
+	{
+		"folder_name": "Sales",
+		"file_name": "Sales.csv"
+	},
+	{
+		"folder_name": "Salesperson",
+		"file_name": "Salesperson.csv"
+	},
+	{
+		"folder_name": "SalespersonRegion",
+		"file_name": "SalespersonRegion.csv"
+	},
+	{
+		"folder_name": "Targets",
+		"file_name": "Targets.csv"
+	}
+]
+
+
+[
+	{
+		"sourcefolder": "Product",
+		"destinationfolder": "Product"
+	},
+	{
+		"sourcefolder": "Region",
+		"destinationfolder": "Region"
+	},
+	{
+		"sourcefolder": "Reseller",
+		"destinationfolder": "Reseller"
+	},
+	{
+		"sourcefolder": "Sales",
+		"destinationfolder": "Sales"
+	},
+	{
+		"sourcefolder": "Salesperson",
+		"destinationfolder": "Salesperson"
+	},
+	{
+		"sourcefolder": "SalespersonRegion",
+		"destinationfolder": "SalespersonRegion"
+	},
+	{
+		"sourcefolder": "Targets",
+		"destinationfolder": "Targets"
+	}
+]
